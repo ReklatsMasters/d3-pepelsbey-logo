@@ -1,7 +1,7 @@
 # Wat
 Animated @pepelsbey logo on d3.js
 
-![logo](pepelsbey.svg)
+![logo](pepelsbey.png)
 
 # License
 MIT
